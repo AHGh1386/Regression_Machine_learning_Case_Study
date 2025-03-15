@@ -1,2 +1,2 @@
-# Regression_Machine_learning_Study_Case
-Regression Machine learning Study Case Project
+# Regression_Machine_learning_Case_Study
+Regression Machine learning Case Study Project
